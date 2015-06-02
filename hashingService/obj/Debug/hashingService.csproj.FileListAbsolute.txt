@@ -1,0 +1,4 @@
+F:\dropbox\Dropbox\Dropbox\hashingService\hashingService\bin\Debug\hashingService.dll
+F:\dropbox\Dropbox\Dropbox\hashingService\hashingService\bin\Debug\hashingService.pdb
+F:\dropbox\Dropbox\Dropbox\hashingService\hashingService\obj\Debug\hashingService.dll
+F:\dropbox\Dropbox\Dropbox\hashingService\hashingService\obj\Debug\hashingService.pdb
