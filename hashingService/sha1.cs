@@ -9,6 +9,7 @@ namespace hashingService
 {
     public class sha1
     {
+	///returns the hashed string using sha1
         public static string GetSha1(string value)
         {
             var data = Encoding.ASCII.GetBytes(value);
